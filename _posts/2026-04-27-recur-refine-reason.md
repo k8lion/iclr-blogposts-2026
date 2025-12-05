@@ -10,7 +10,7 @@ hidden: true
 authors:
   - name: Anonymous
 
-bibliography: 2026-04-27-recurrefinereason.bib
+bibliography: 2026-04-27-recur-refine-reason.bib
 
 toc:
   - name: Introduction
@@ -81,10 +81,10 @@ Depth growth, when accomplished by stacking gradually during training, can be vi
 
 <div class="row mt-3">
     <div class="col-7 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/2026-04-27-recurrefinereason/midas.png" class="img-fluid" width="70%" %}
+        {% include figure.liquid path="assets/img/2026-04-27-recur-refine-reason/midas.png" class="img-fluid" width="70%" %}
     </div>
     <div class="col-5 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/2026-04-27-recurrefinereason/cossim.png" class="img-fluid" width="30%"%}
+        {% include figure.liquid path="assets/img/2026-04-27-recur-refine-reason/cossim.png" class="img-fluid" width="30%"%}
     </div>
 </div>
 <div class="caption">
