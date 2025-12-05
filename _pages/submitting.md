@@ -75,7 +75,7 @@ For more details about any of these steps, please refer to the appropriate secti
 
 3. To render your website locally, we highly recommend the use of VSCode [`devcontainers`](https://code.visualstudio.com/docs/devcontainers/containers). Make sure to have [Docker](https://docs.docker.com/engine/install/) installed for this to work. Once the devcontainer is entered, a webserver on `localhost:8080` should be automatically started and you can preview your blog post on `localhost:8080/2026/blog/2026/[SUBMISSION-NAME]`. More information about the local setup can be found in the [Local Serving](#local-serving) section.
 
-4. To submit your website, create a pull request to the main repository. Make sure that this PR's title is `_posts/2026-04-27-[SUBMISSION NAME]`. This will trigger a GitHub Action that will build your blogpost and write the host's URL in a comment to your PR.
+4. To submit your website, create a pull request to the main repository. Make sure that this PR's title is `2026-04-27-[SUBMISSION NAME]`. This will trigger a GitHub Action that will build your blogpost and write the host's URL in a comment to your PR.
 
 5. If accepted, we will merge the accepted posts to our main repository. See the [camera ready](#camera-ready) section for more details on merging in an accepted blog post.
 
